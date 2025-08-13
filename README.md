@@ -9,5 +9,6 @@ Yeah, I paste games too — but I test every single one to make sure it actually
 
 The site goes live when school starts — stay tuned!
 
+<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/e88c2774-4b40-4ab5-8edf-a4b2c0ff5037" />
 
-https://cdn.discordapp.com/attachments/1246275352477696133/1405082459334250668/Screenshot_2.png?ex=689d8883&is=689c3703&hm=7cd3f7ed4da088e256017b870438f0eb99b31885d6030dd997aa52d70931611d&
+<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/6a18035c-9ed4-4c3a-848f-afba44c018f5" />
