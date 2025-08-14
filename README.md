@@ -1,3 +1,5 @@
+Founder: Atomix  :Developer Rux
+
 🎮 Welcome to Atomix's Game Site! 🎮
 
 Hey, I’m Atomix — and this is my school game website!
